@@ -15,6 +15,7 @@ It visually mirrors every key you press on your keyboard directly onto the scree
 **🖱️ DOM Manipulation** – built using JavaScript’s DOM methods for dynamic updates.
 
 **💡 Interactive UI** – clean and user-friendly design.
+**🖱️ Mouse Hover Effect** – background and text color dynamically change on mouse events.
 
 **⚡ Lightweight & Fast** – no external dependencies, runs directly in the browser.
 
@@ -31,6 +32,10 @@ JavaScript (DOM) – logic for key detection, theme toggle, and dynamic renderin
 
 ![Keyboard Mirror Demo 1](./image1.png)  
 ![Keyboard Mirror Demo 2](./image2.png)
+
+**on MouseEvent**
+![Keyboard Mirror Demo 2](./image3.png)
+![Keyboard Mirror Demo 2](./image4.png)
 
 **📂 How to Use**
 
@@ -50,5 +55,6 @@ Practiced JavaScript DOM Manipulation (getElementById, querySelector, addEventLi
 Implemented Dark/Light Theme Toggle using DOM methods
 
 Built a responsive UI with simple HTML + CSS + JS
+
 
 
