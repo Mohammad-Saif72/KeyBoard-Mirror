@@ -27,7 +27,8 @@ JavaScript (Vanilla) – logic for key detection and display
 
 📷 Demo Screenshot
 
-(Add a screenshot or GIF here to showcase the app in action)
+(./image1.png)
+(./image2.png)
 
 📂 How to Use
 
@@ -39,3 +40,4 @@ git clone https://github.com/Mohammad-Saif72/KeyBoard-Mirror.git
 Open index.html in your browser.
 
 Start typing and see your keys mirrored on screen!
+
