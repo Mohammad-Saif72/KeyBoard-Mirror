@@ -3,6 +3,7 @@ let div = document.querySelector("div");
 let p = document.querySelector("p");
 let darkModeButton = document.querySelector("button");
 let i = document.querySelector("i");
+let boxOnMouse = document.querySelector("#box");
 
 function Change(e){
     // console.dir(e)
@@ -31,4 +32,14 @@ darkModeButton.addEventListener("click",()=>{
     }
 
     
+})
+// console.log(boxOnMouse);
+boxOnMouse.addEventListener("mouseover",()=>{
+    boxOnMouse.style.backgroundColor = "yellow";
+    boxOnMouse.style.color = "blue"
+})
+
+boxOnMouse.addEventListener("mouseout",()=>{
+    boxOnMouse.style.backgroundColor="rgb(78, 17, 61)"
+    boxOnMouse.style.color = "White";
 })
